@@ -482,3 +482,11 @@ p {
   color: var(--text-white);
   font-weight: 600;
 }
+.footer_wrapper .social-network a {
+  width: 3.1875rem;
+  height: 3.1875rem;
+  line-height: 2.6rem;
+}
+.fab {
+  margin-left: -15px;
+}
