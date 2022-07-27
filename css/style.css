@@ -479,8 +479,9 @@ p {
   text-align: center;
 }
 .footer_wrapper .copyright-section a {
-  color: var(--text-white);
+  color: var(--secondary-color);
   font-weight: 600;
+  letter-spacing: 2px;
 }
 .footer_wrapper .social-network a {
   width: 3.1875rem;
